@@ -1,4 +1,4 @@
-![alt text](https://i.ibb.co/rtjCf01/DRISHTI-1-2-2.png "Logo")
+![alt text](https://i.ibb.co/vZztsPJ/Screenshot-2023-11-23-124700.png "Logo")
 
 ## About the Project
 
@@ -40,8 +40,4 @@ Navigate to any page of the site with the following simple commands. Click on th
 * Face : to navigate to the face recognition page
 * Object : to navigate to the object recognition page 
 * Read : to navigate to the read text page
-* About : to navigate to the about us page 
-## Links
-Video Demo - https://youtu.be/CcjpokIxftY
-
-Presentation - https://docs.google.com/presentation/d/1rl2_ywGUu-vhyVYjivuPmlqCEZJK3JBKn0WtXecWnME/edit?usp=sharing
+* About : to navigate to the about us page
