@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+![alt text](https://i.ibb.co/rtjCf01/DRISHTI-1-2-2.png "Logo")
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About the Project
 
-## Available Scripts
+Drishti is a project to make the lives of visually impaired people easier. It provides features like face recognition, object recognition, text recognition and voice navigation.
+It is difficult for people who are blind or have low vision to recognize objects or emotions in a variety of situations. Sole reliance on others may be difficult in some circumstances.
+Using face recognition technology, the system will identify object, emotions and many more.
 
-In the project directory, you can run:
+### Built With
+* React.js
+* face-api.js
+* tesseract.js
+* tensorflow
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Getting Started
+After cloning the repository, go to **drishti** named folder then:
+1. Go to **Face-recog** folder and run the following commands
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+`  npm install`
 
-### `npm test`
+`   npm start`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### NOTE: You may close the tab now that opens after running the commands.
 
-### `npm run build`
+2. Go to **Main** folder and run the above commands again.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The server is now up and ready to use!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Features
+### Face and Object Recognition
+With a single click of button, get to hear what your camera captures. Also detect the age, gender and emotions of people.
+### Real time Text Recognition
+Make reading in real life much more easier and independent with the Read Text feature. It identifies and reads everything that comes in your camera frame.
+### Voice Navigation
+Navigate to any page of the site with the following simple commands. Click on the logo in the navigation bar to start and click again to stop listening.
+#### COMMANDS
+* Home : to navigate to the home page
+* Vision : to navigate to the vision page
+* Face : to navigate to the face recognition page
+* Object : to navigate to the object recognition page 
+* Read : to navigate to the read text page
+* About : to navigate to the about us page 
+## Links
+Video Demo - https://youtu.be/CcjpokIxftY
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Presentation - https://docs.google.com/presentation/d/1rl2_ywGUu-vhyVYjivuPmlqCEZJK3JBKn0WtXecWnME/edit?usp=sharing
